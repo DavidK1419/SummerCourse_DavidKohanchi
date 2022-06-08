@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/IntelliJDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/web-project" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/web-projects" vcs="Git" />
   </component>
 </project>
