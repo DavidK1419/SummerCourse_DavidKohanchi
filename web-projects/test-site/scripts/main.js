@@ -26,7 +26,7 @@ function startUp() {
     let name = prompt('Enter "David" to see a picture of David with Yishi Ribo or "Me" to see a picture of yourself with Yishi Ribo');
     if(name === "David"){
         myImage.setAttribute('src','images/picWithYishiRibo.jpg');
-    }else if(name === "Me"){
+    }else if((name === "ME") || (name === "me") || (name === "Me") || (name === "mE")){
         myImage.setAttribute('src','images/PassiveAgressivePicForWebSite.jpg');
     }else{
         startUp();
